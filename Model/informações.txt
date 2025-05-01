@@ -1,0 +1,2 @@
+Essa camada corresponde ao armazenamento e manipualação dos dados de entrada e saida.
+
